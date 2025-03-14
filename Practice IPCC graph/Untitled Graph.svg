@@ -1,0 +1,444 @@
+<svg width="547" height="421" viewBox="0 0 2735.94 332.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="translate(691.3024193357267,242.96256603857967) scale(0.6851755073328256)">
+<title>G</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-328 2731.94,-328 2731.94,4 -4,4"/>
+<!-- IPCC -->
+<g id="node1" class="node">
+<title>IPCC</title>
+<polygon fill="#add8e6" stroke="black" points="918.25,-324 864.25,-324 864.25,-288 918.25,-288 918.25,-324"/>
+<text text-anchor="middle" x="891.25" y="-301.8" font-family="Times,serif" font-size="14.00">IPCC</text>
+</g>
+<!-- Assessment Reports 1 -->
+<g id="node2" class="node">
+<title>Assessment Reports 1</title>
+<polygon fill="#90ee90" stroke="black" points="282.49,-252 57.8,-252 0,-216 224.69,-216 282.49,-252"/>
+<text text-anchor="middle" x="141.25" y="-229.8" font-family="Times,serif" font-size="14.00">Assessment Reports 1</text>
+</g>
+<!-- IPCC&#45;&gt;Assessment Reports 1 -->
+<g id="edge1" class="edge">
+<title>IPCC-&gt;Assessment Reports 1</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M864.02,-302.84C780.54,-296.15 520.64,-274.96 292.92,-252.15"/>
+<polygon fill="black" stroke="black" points="293.57,-248.7 283.27,-251.18 292.87,-255.67 293.57,-248.7"/>
+</g>
+<!-- Assessment Reports 2 -->
+<g id="node3" class="node">
+<title>Assessment Reports 2</title>
+<polygon fill="#90ee90" stroke="black" points="582.49,-252 357.8,-252 300,-216 524.69,-216 582.49,-252"/>
+<text text-anchor="middle" x="441.25" y="-229.8" font-family="Times,serif" font-size="14.00">Assessment Reports 2</text>
+</g>
+<!-- IPCC&#45;&gt;Assessment Reports 2 -->
+<g id="edge2" class="edge">
+<title>IPCC-&gt;Assessment Reports 2</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M863.78,-300.73C805.69,-291.69 667.31,-270.17 564.65,-254.2"/>
+<polygon fill="black" stroke="black" points="565.5,-250.79 555.08,-252.71 564.42,-257.7 565.5,-250.79"/>
+</g>
+<!-- Assessment Reports 3 -->
+<g id="node4" class="node">
+<title>Assessment Reports 3</title>
+<polygon fill="#90ee90" stroke="black" points="882.49,-252 657.8,-252 600,-216 824.69,-216 882.49,-252"/>
+<text text-anchor="middle" x="741.25" y="-229.8" font-family="Times,serif" font-size="14.00">Assessment Reports 3</text>
+</g>
+<!-- IPCC&#45;&gt;Assessment Reports 3 -->
+<g id="edge3" class="edge">
+<title>IPCC-&gt;Assessment Reports 3</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M864.08,-292.32C843.18,-282.57 813.76,-268.84 788.96,-257.26"/>
+<polygon fill="black" stroke="black" points="790.56,-254.15 780.02,-253.09 787.6,-260.49 790.56,-254.15"/>
+</g>
+<!-- Assessment Reports 4 -->
+<g id="node5" class="node">
+<title>Assessment Reports 4</title>
+<polygon fill="#90ee90" stroke="black" points="1182.49,-252 957.8,-252 900,-216 1124.69,-216 1182.49,-252"/>
+<text text-anchor="middle" x="1041.25" y="-229.8" font-family="Times,serif" font-size="14.00">Assessment Reports 4</text>
+</g>
+<!-- IPCC&#45;&gt;Assessment Reports 4 -->
+<g id="edge4" class="edge">
+<title>IPCC-&gt;Assessment Reports 4</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M918.41,-292.32C939.32,-282.57 968.73,-268.84 993.54,-257.26"/>
+<polygon fill="black" stroke="black" points="994.9,-260.49 1002.48,-253.09 991.94,-254.15 994.9,-260.49"/>
+</g>
+<!-- Assessment Reports 5 -->
+<g id="node6" class="node">
+<title>Assessment Reports 5</title>
+<polygon fill="#90ee90" stroke="black" points="1482.49,-252 1257.8,-252 1200,-216 1424.69,-216 1482.49,-252"/>
+<text text-anchor="middle" x="1341.25" y="-229.8" font-family="Times,serif" font-size="14.00">Assessment Reports 5</text>
+</g>
+<!-- IPCC&#45;&gt;Assessment Reports 5 -->
+<g id="edge5" class="edge">
+<title>IPCC-&gt;Assessment Reports 5</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M918.72,-300.73C981.32,-290.99 1137.16,-266.75 1241.06,-250.59"/>
+<polygon fill="black" stroke="black" points="1241.36,-254.08 1250.7,-249.08 1240.28,-247.16 1241.36,-254.08"/>
+</g>
+<!-- Assessment Reports 6 -->
+<g id="node7" class="node">
+<title>Assessment Reports 6</title>
+<polygon fill="#90ee90" stroke="black" points="1782.49,-252 1557.8,-252 1500,-216 1724.69,-216 1782.49,-252"/>
+<text text-anchor="middle" x="1641.25" y="-229.8" font-family="Times,serif" font-size="14.00">Assessment Reports 6</text>
+</g>
+<!-- IPCC&#45;&gt;Assessment Reports 6 -->
+<g id="edge6" class="edge">
+<title>IPCC-&gt;Assessment Reports 6</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M918.48,-302.84C1003.32,-296.04 1270.41,-274.26 1491.25,-252 1505.69,-250.54 1520.9,-248.92 1535.88,-247.27"/>
+<polygon fill="black" stroke="black" points="1536.21,-250.76 1545.76,-246.18 1535.44,-243.8 1536.21,-250.76"/>
+</g>
+<!-- Wg1 -->
+<g id="node8" class="node">
+<title>Wg1</title>
+<polygon fill="#fff40e" stroke="black" points="1539.25,-180 1497.09,-162 1539.25,-144 1581.4,-162 1539.25,-180"/>
+<text text-anchor="middle" x="1539.25" y="-157.8" font-family="Times,serif" font-size="14.00">Wg1</text>
+</g>
+<!-- Assessment Reports 6&#45;&gt;Wg1 -->
+<g id="edge7" class="edge">
+<title>Assessment Reports 6-&gt;Wg1</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1615.77,-215.52C1599.94,-204.65 1579.69,-190.75 1563.99,-179.98"/>
+<polygon fill="black" stroke="black" points="1566.36,-177.36 1556.14,-174.59 1562.4,-183.14 1566.36,-177.36"/>
+</g>
+<!-- Wg2 -->
+<g id="node9" class="node">
+<title>Wg2</title>
+<polygon fill="#fff40e" stroke="black" points="1641.25,-180 1599.09,-162 1641.25,-144 1683.4,-162 1641.25,-180"/>
+<text text-anchor="middle" x="1641.25" y="-157.8" font-family="Times,serif" font-size="14.00">Wg2</text>
+</g>
+<!-- Assessment Reports 6&#45;&gt;Wg2 -->
+<g id="edge8" class="edge">
+<title>Assessment Reports 6-&gt;Wg2</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1641.25,-215.7C1641.25,-208.41 1641.25,-199.73 1641.25,-191.54"/>
+<polygon fill="black" stroke="black" points="1644.75,-191.62 1641.25,-181.62 1637.75,-191.62 1644.75,-191.62"/>
+</g>
+<!-- Wg3 -->
+<g id="node10" class="node">
+<title>Wg3</title>
+<polygon fill="#fff40e" stroke="black" points="1743.25,-180 1701.09,-162 1743.25,-144 1785.4,-162 1743.25,-180"/>
+<text text-anchor="middle" x="1743.25" y="-157.8" font-family="Times,serif" font-size="14.00">Wg3</text>
+</g>
+<!-- Assessment Reports 6&#45;&gt;Wg3 -->
+<g id="edge9" class="edge">
+<title>Assessment Reports 6-&gt;Wg3</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1666.72,-215.52C1682.56,-204.65 1702.81,-190.75 1718.5,-179.98"/>
+<polygon fill="black" stroke="black" points="1720.09,-183.14 1726.36,-174.59 1716.13,-177.36 1720.09,-183.14"/>
+</g>
+<!-- Chapters -->
+<g id="node11" class="node">
+<title>Chapters</title>
+<ellipse fill="#f4c2c2" stroke="black" cx="1045.25" cy="-90" rx="45.36" ry="18"/>
+<text text-anchor="middle" x="1045.25" y="-85.8" font-family="Times,serif" font-size="14.00">Chapters</text>
+</g>
+<!-- Wg2&#45;&gt;Chapters -->
+<g id="edge10" class="edge">
+<title>Wg2-&gt;Chapters</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1620.2,-152.8C1611.12,-149.57 1600.29,-146.13 1590.25,-144 1414.71,-106.7 1201.7,-95.59 1101.94,-92.33"/>
+<polygon fill="black" stroke="black" points="1102.25,-88.84 1092.14,-92.02 1102.03,-95.83 1102.25,-88.84"/>
+</g>
+<!-- Cross&#45;Chapters -->
+<g id="node12" class="node">
+<title>Cross-Chapters</title>
+<ellipse fill="#f4c2c2" stroke="black" cx="2236.25" cy="-90" rx="70.58" ry="18"/>
+<text text-anchor="middle" x="2236.25" y="-85.8" font-family="Times,serif" font-size="14.00">Cross-Chapters</text>
+</g>
+<!-- Wg2&#45;&gt;Cross&#45;Chapters -->
+<g id="edge11" class="edge">
+<title>Wg2-&gt;Cross-Chapters</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1662.29,-152.8C1671.38,-149.57 1682.21,-146.13 1692.25,-144 1854.12,-109.59 2047.9,-97.47 2155,-93.23"/>
+<polygon fill="black" stroke="black" points="2154.98,-96.74 2164.84,-92.86 2154.72,-89.74 2154.98,-96.74"/>
+</g>
+<!-- Chapter 1 -->
+<g id="node13" class="node">
+<title>Chapter 1</title>
+<polygon fill="#e6e6fa" stroke="black" points="276.66,-36 205.84,-36 205.84,0 276.66,0 276.66,-36"/>
+<text text-anchor="middle" x="241.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 1</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 1 -->
+<g id="edge12" class="edge">
+<title>Chapters-&gt;Chapter 1</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M999.83,-87.56C861.32,-82.91 444.7,-66.89 288.08,-35.87"/>
+<polygon fill="black" stroke="black" points="288.81,-32.44 278.3,-33.82 287.38,-39.3 288.81,-32.44"/>
+</g>
+<!-- Chapter 2 -->
+<g id="node14" class="node">
+<title>Chapter 2</title>
+<polygon fill="#e6e6fa" stroke="black" points="365.66,-36 294.84,-36 294.84,0 365.66,0 365.66,-36"/>
+<text text-anchor="middle" x="330.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 2</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 2 -->
+<g id="edge13" class="edge">
+<title>Chapters-&gt;Chapter 2</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M999.5,-89.78C891.8,-90.7 614.12,-87.61 376.75,-35.9"/>
+<polygon fill="black" stroke="black" points="377.83,-32.55 367.31,-33.81 376.31,-39.39 377.83,-32.55"/>
+</g>
+<!-- Chapter 3 -->
+<g id="node15" class="node">
+<title>Chapter 3</title>
+<polygon fill="#e6e6fa" stroke="black" points="454.66,-36 383.84,-36 383.84,0 454.66,0 454.66,-36"/>
+<text text-anchor="middle" x="419.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 3</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 3 -->
+<g id="edge14" class="edge">
+<title>Chapters-&gt;Chapter 3</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M999.76,-89C902.76,-88.11 668.6,-81.27 465.99,-35.98"/>
+<polygon fill="black" stroke="black" points="466.84,-32.58 456.31,-33.78 465.29,-39.41 466.84,-32.58"/>
+</g>
+<!-- Chapter 4 -->
+<g id="node16" class="node">
+<title>Chapter 4</title>
+<polygon fill="#e6e6fa" stroke="black" points="543.66,-36 472.84,-36 472.84,0 543.66,0 543.66,-36"/>
+<text text-anchor="middle" x="508.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 4</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 4 -->
+<g id="edge15" class="edge">
+<title>Chapters-&gt;Chapter 4</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M999.83,-87.94C914.15,-85.13 722.97,-74.94 554.89,-35.99"/>
+<polygon fill="black" stroke="black" points="555.86,-32.63 545.32,-33.73 554.25,-39.44 555.86,-32.63"/>
+</g>
+<!-- Chapter 5 -->
+<g id="node17" class="node">
+<title>Chapter 5</title>
+<polygon fill="#e6e6fa" stroke="black" points="632.66,-36 561.84,-36 561.84,0 632.66,0 632.66,-36"/>
+<text text-anchor="middle" x="597.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 5</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 5 -->
+<g id="edge16" class="edge">
+<title>Chapters-&gt;Chapter 5</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1000.49,-86.49C927.42,-81.66 778.04,-68.75 643.75,-36.01"/>
+<polygon fill="black" stroke="black" points="644.89,-32.69 634.34,-33.67 643.2,-39.48 644.89,-32.69"/>
+</g>
+<!-- Chapter 6 -->
+<g id="node18" class="node">
+<title>Chapter 6</title>
+<polygon fill="#e6e6fa" stroke="black" points="721.66,-36 650.84,-36 650.84,0 721.66,0 721.66,-36"/>
+<text text-anchor="middle" x="686.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 6</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 6 -->
+<g id="edge17" class="edge">
+<title>Chapters-&gt;Chapter 6</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1001.76,-84.36C942.77,-77.49 834.09,-62.75 732.93,-36.14"/>
+<polygon fill="black" stroke="black" points="733.93,-32.79 723.36,-33.58 732.12,-39.55 733.93,-32.79"/>
+</g>
+<!-- Chapter 7 -->
+<g id="node19" class="node">
+<title>Chapter 7</title>
+<polygon fill="#e6e6fa" stroke="black" points="810.66,-36 739.84,-36 739.84,0 810.66,0 810.66,-36"/>
+<text text-anchor="middle" x="775.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 7</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 7 -->
+<g id="edge18" class="edge">
+<title>Chapters-&gt;Chapter 7</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1005,-81.17C961.87,-72.41 891.28,-57.04 821.67,-36.22"/>
+<polygon fill="black" stroke="black" points="823,-32.97 812.41,-33.41 820.97,-39.66 823,-32.97"/>
+</g>
+<!-- Chapter 8 -->
+<g id="node20" class="node">
+<title>Chapter 8</title>
+<polygon fill="#e6e6fa" stroke="black" points="899.66,-36 828.84,-36 828.84,0 899.66,0 899.66,-36"/>
+<text text-anchor="middle" x="864.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 8</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 8 -->
+<g id="edge19" class="edge">
+<title>Chapters-&gt;Chapter 8</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1013.72,-76.81C985.24,-65.79 942.95,-49.44 910.62,-36.93"/>
+<polygon fill="black" stroke="black" points="912.07,-33.74 901.48,-33.4 909.54,-40.27 912.07,-33.74"/>
+</g>
+<!-- Chapter 9 -->
+<g id="node21" class="node">
+<title>Chapter 9</title>
+<polygon fill="#e6e6fa" stroke="black" points="988.66,-36 917.84,-36 917.84,0 988.66,0 988.66,-36"/>
+<text text-anchor="middle" x="953.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 9</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 9 -->
+<g id="edge20" class="edge">
+<title>Chapters-&gt;Chapter 9</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1024.83,-73.46C1013.13,-64.56 998.19,-53.2 985,-43.16"/>
+<polygon fill="black" stroke="black" points="987.48,-40.65 977.4,-37.38 983.24,-46.22 987.48,-40.65"/>
+</g>
+<!-- Chapter 10 -->
+<g id="node22" class="node">
+<title>Chapter 10</title>
+<polygon fill="#e6e6fa" stroke="black" points="1084.16,-36 1006.34,-36 1006.34,0 1084.16,0 1084.16,-36"/>
+<text text-anchor="middle" x="1045.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 10</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 10 -->
+<g id="edge21" class="edge">
+<title>Chapters-&gt;Chapter 10</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1045.25,-71.7C1045.25,-64.41 1045.25,-55.73 1045.25,-47.54"/>
+<polygon fill="black" stroke="black" points="1048.75,-47.62 1045.25,-37.62 1041.75,-47.62 1048.75,-47.62"/>
+</g>
+<!-- Chapter 11 -->
+<g id="node23" class="node">
+<title>Chapter 11</title>
+<polygon fill="#e6e6fa" stroke="black" points="1180.16,-36 1102.34,-36 1102.34,0 1180.16,0 1180.16,-36"/>
+<text text-anchor="middle" x="1141.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 11</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 11 -->
+<g id="edge22" class="edge">
+<title>Chapters-&gt;Chapter 11</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1066.08,-73.81C1078.35,-64.86 1094.17,-53.33 1108.12,-43.16"/>
+<polygon fill="black" stroke="black" points="1110.17,-45.99 1116.19,-37.27 1106.05,-40.33 1110.17,-45.99"/>
+</g>
+<!-- Chapter 12 -->
+<g id="node24" class="node">
+<title>Chapter 12</title>
+<polygon fill="#e6e6fa" stroke="black" points="1276.16,-36 1198.34,-36 1198.34,0 1276.16,0 1276.16,-36"/>
+<text text-anchor="middle" x="1237.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 12</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 12 -->
+<g id="edge23" class="edge">
+<title>Chapters-&gt;Chapter 12</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1077.82,-77.13C1107.75,-66.21 1152.56,-49.88 1187.06,-37.3"/>
+<polygon fill="black" stroke="black" points="1188.25,-40.59 1196.45,-33.88 1185.85,-34.01 1188.25,-40.59"/>
+</g>
+<!-- Chapter 13 -->
+<g id="node25" class="node">
+<title>Chapter 13</title>
+<polygon fill="#e6e6fa" stroke="black" points="1372.16,-36 1294.34,-36 1294.34,0 1372.16,0 1372.16,-36"/>
+<text text-anchor="middle" x="1333.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 13</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 13 -->
+<g id="edge24" class="edge">
+<title>Chapters-&gt;Chapter 13</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1085.97,-81.59C1131.77,-72.92 1208.5,-57.34 1283.1,-36.44"/>
+<polygon fill="black" stroke="black" points="1283.96,-39.83 1292.63,-33.73 1282.05,-33.09 1283.96,-39.83"/>
+</g>
+<!-- Chapter 14 -->
+<g id="node26" class="node">
+<title>Chapter 14</title>
+<polygon fill="#e6e6fa" stroke="black" points="1468.16,-36 1390.34,-36 1390.34,0 1468.16,0 1468.16,-36"/>
+<text text-anchor="middle" x="1429.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 14</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 14 -->
+<g id="edge25" class="edge">
+<title>Chapters-&gt;Chapter 14</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1088.99,-84.7C1151.53,-77.99 1270.11,-63.17 1379.03,-36.32"/>
+<polygon fill="black" stroke="black" points="1379.56,-39.79 1388.4,-33.96 1377.85,-33 1379.56,-39.79"/>
+</g>
+<!-- Chapter 15 -->
+<g id="node27" class="node">
+<title>Chapter 15</title>
+<polygon fill="#e6e6fa" stroke="black" points="1564.16,-36 1486.34,-36 1486.34,0 1564.16,0 1564.16,-36"/>
+<text text-anchor="middle" x="1525.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 15</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 15 -->
+<g id="edge26" class="edge">
+<title>Chapters-&gt;Chapter 15</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1090.28,-86.72C1167.53,-82.1 1330.22,-69.33 1475.06,-36.23"/>
+<polygon fill="black" stroke="black" points="1475.48,-39.72 1484.42,-34.05 1473.89,-32.91 1475.48,-39.72"/>
+</g>
+<!-- Chapter 16 -->
+<g id="node28" class="node">
+<title>Chapter 16</title>
+<polygon fill="#e6e6fa" stroke="black" points="1660.16,-36 1582.34,-36 1582.34,0 1660.16,0 1660.16,-36"/>
+<text text-anchor="middle" x="1621.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 16</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 16 -->
+<g id="edge27" class="edge">
+<title>Chapters-&gt;Chapter 16</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1090.68,-88.1C1180.95,-85.53 1389.16,-75.7 1570.82,-36.23"/>
+<polygon fill="black" stroke="black" points="1571.43,-39.68 1580.44,-34.1 1569.92,-32.85 1571.43,-39.68"/>
+</g>
+<!-- Chapter 17 -->
+<g id="node29" class="node">
+<title>Chapter 17</title>
+<polygon fill="#e6e6fa" stroke="black" points="1756.16,-36 1678.34,-36 1678.34,0 1756.16,0 1756.16,-36"/>
+<text text-anchor="middle" x="1717.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 17</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 17 -->
+<g id="edge28" class="edge">
+<title>Chapters-&gt;Chapter 17</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1090.86,-89.09C1193.02,-88.45 1447.78,-82.14 1666.86,-36.19"/>
+<polygon fill="black" stroke="black" points="1667.4,-39.65 1676.45,-34.14 1665.94,-32.81 1667.4,-39.65"/>
+</g>
+<!-- Chapter 18 -->
+<g id="node30" class="node">
+<title>Chapter 18</title>
+<polygon fill="#e6e6fa" stroke="black" points="1852.16,-36 1774.34,-36 1774.34,0 1852.16,0 1852.16,-36"/>
+<text text-anchor="middle" x="1813.25" y="-13.8" font-family="Times,serif" font-size="14.00">Chapter 18</text>
+</g>
+<!-- Chapters&#45;&gt;Chapter 18 -->
+<g id="edge29" class="edge">
+<title>Chapters-&gt;Chapter 18</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1090.22,-87.26C1223.31,-81.87 1614.66,-64.22 1762.86,-36.08"/>
+<polygon fill="black" stroke="black" points="1763.33,-39.56 1772.45,-34.16 1761.96,-32.69 1763.33,-39.56"/>
+</g>
+<!-- Cross&#45;Chapter 1 -->
+<g id="node31" class="node">
+<title>Cross-Chapter 1</title>
+<polygon fill="#b19d8d" stroke="black" points="1977.94,-36 1870.56,-36 1870.56,0 1977.94,0 1977.94,-36"/>
+<text text-anchor="middle" x="1924.25" y="-13.8" font-family="Times,serif" font-size="14.00">Cross-Chapter 1</text>
+</g>
+<!-- Cross&#45;Chapters&#45;&gt;Cross&#45;Chapter 1 -->
+<g id="edge30" class="edge">
+<title>Cross-Chapters-&gt;Cross-Chapter 1</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2181.42,-78.34C2133.11,-68.73 2060.58,-53.78 1989.27,-36.67"/>
+<polygon fill="black" stroke="black" points="1990.31,-33.32 1979.77,-34.38 1988.67,-40.13 1990.31,-33.32"/>
+</g>
+<!-- Cross&#45;Chapter 2 -->
+<g id="node32" class="node">
+<title>Cross-Chapter 2</title>
+<polygon fill="#b19d8d" stroke="black" points="2102.94,-36 1995.56,-36 1995.56,0 2102.94,0 2102.94,-36"/>
+<text text-anchor="middle" x="2049.25" y="-13.8" font-family="Times,serif" font-size="14.00">Cross-Chapter 2</text>
+</g>
+<!-- Cross&#45;Chapters&#45;&gt;Cross&#45;Chapter 2 -->
+<g id="edge31" class="edge">
+<title>Cross-Chapters-&gt;Cross-Chapter 2</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2197.5,-74.5C2171.2,-64.65 2135.99,-51.47 2106.47,-40.42"/>
+<polygon fill="black" stroke="black" points="2107.9,-37.22 2097.3,-36.99 2105.44,-43.77 2107.9,-37.22"/>
+</g>
+<!-- Cross&#45;Chapter 3 -->
+<g id="node33" class="node">
+<title>Cross-Chapter 3</title>
+<polygon fill="#b19d8d" stroke="black" points="2227.94,-36 2120.56,-36 2120.56,0 2227.94,0 2227.94,-36"/>
+<text text-anchor="middle" x="2174.25" y="-13.8" font-family="Times,serif" font-size="14.00">Cross-Chapter 3</text>
+</g>
+<!-- Cross&#45;Chapters&#45;&gt;Cross&#45;Chapter 3 -->
+<g id="edge32" class="edge">
+<title>Cross-Chapters-&gt;Cross-Chapter 3</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2221.24,-72.05C2213.96,-63.84 2205.06,-53.79 2196.97,-44.66"/>
+<polygon fill="black" stroke="black" points="2199.8,-42.57 2190.55,-37.41 2194.56,-47.21 2199.8,-42.57"/>
+</g>
+<!-- Cross&#45;Chapter 4 -->
+<g id="node34" class="node">
+<title>Cross-Chapter 4</title>
+<polygon fill="#b19d8d" stroke="black" points="2352.94,-36 2245.56,-36 2245.56,0 2352.94,0 2352.94,-36"/>
+<text text-anchor="middle" x="2299.25" y="-13.8" font-family="Times,serif" font-size="14.00">Cross-Chapter 4</text>
+</g>
+<!-- Cross&#45;Chapters&#45;&gt;Cross&#45;Chapter 4 -->
+<g id="edge33" class="edge">
+<title>Cross-Chapters-&gt;Cross-Chapter 4</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2251.5,-72.05C2258.89,-63.84 2267.94,-53.79 2276.15,-44.66"/>
+<polygon fill="black" stroke="black" points="2278.6,-47.17 2282.69,-37.4 2273.4,-42.49 2278.6,-47.17"/>
+</g>
+<!-- Cross&#45;Chapter 5 -->
+<g id="node35" class="node">
+<title>Cross-Chapter 5</title>
+<polygon fill="#b19d8d" stroke="black" points="2477.94,-36 2370.56,-36 2370.56,0 2477.94,0 2477.94,-36"/>
+<text text-anchor="middle" x="2424.25" y="-13.8" font-family="Times,serif" font-size="14.00">Cross-Chapter 5</text>
+</g>
+<!-- Cross&#45;Chapters&#45;&gt;Cross&#45;Chapter 5 -->
+<g id="edge34" class="edge">
+<title>Cross-Chapters-&gt;Cross-Chapter 5</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2274.75,-74.67C2301.25,-64.8 2336.92,-51.52 2366.77,-40.4"/>
+<polygon fill="black" stroke="black" points="2367.91,-43.71 2376.06,-36.94 2365.47,-37.15 2367.91,-43.71"/>
+</g>
+<!-- Cross&#45;Chapter 6 -->
+<g id="node36" class="node">
+<title>Cross-Chapter 6</title>
+<polygon fill="#b19d8d" stroke="black" points="2602.94,-36 2495.56,-36 2495.56,0 2602.94,0 2602.94,-36"/>
+<text text-anchor="middle" x="2549.25" y="-13.8" font-family="Times,serif" font-size="14.00">Cross-Chapter 6</text>
+</g>
+<!-- Cross&#45;Chapters&#45;&gt;Cross&#45;Chapter 6 -->
+<g id="edge35" class="edge">
+<title>Cross-Chapters-&gt;Cross-Chapter 6</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2291.3,-78.36C2339.81,-68.76 2412.62,-53.81 2484.19,-36.68"/>
+<polygon fill="black" stroke="black" points="2484.82,-40.13 2493.72,-34.38 2483.18,-33.32 2484.82,-40.13"/>
+</g>
+<!-- Cross&#45;Chapter 7 -->
+<g id="node37" class="node">
+<title>Cross-Chapter 7</title>
+<polygon fill="#b19d8d" stroke="black" points="2727.94,-36 2620.56,-36 2620.56,0 2727.94,0 2727.94,-36"/>
+<text text-anchor="middle" x="2674.25" y="-13.8" font-family="Times,serif" font-size="14.00">Cross-Chapter 7</text>
+</g>
+<!-- Cross&#45;Chapters&#45;&gt;Cross&#45;Chapter 7 -->
+<g id="edge36" class="edge">
+<title>Cross-Chapters-&gt;Cross-Chapter 7</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M2300.88,-82.43C2373.71,-74.46 2495.77,-59.4 2608.97,-36.55"/>
+<polygon fill="black" stroke="black" points="2609.67,-39.98 2618.76,-34.55 2608.26,-33.12 2609.67,-39.98"/>
+</g>
+</g>
+</svg>
