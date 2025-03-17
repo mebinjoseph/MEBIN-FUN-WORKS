@@ -8,7 +8,7 @@ AR=['AR1', 'AR2', 'AR3', 'AR4', 'AR5', 'AR6'] #Creates nodes AR 1-6 [Assessment 
 for node in AR:                               #For iterating the properties of AR 1-6 [Assessment Reports 1-6]
     graph.node(node, node, shape='parallelogram', style="filled", color="#90EE90")
 
-for node in AR: #Connects edge IPCC to node i.e., AR [Assessment Reports]
+for node in AR:                                #Connects edge IPCC to node i.e., AR [Assessment Reports]
     graph.edge('IPCC', node, style="dotted")
 
 Wg=['Wg1', 'Wg2', 'Wg3'] # Creates nodes Wg1-3 [Working group 1-3]
@@ -33,7 +33,7 @@ for node in SynR:           #Connects edge AR6 to SynR i.e., Synthesis Report
 
 # Creates Chapter 1-12 & Atlas in Working Group 1
 Wg1_Ch=['Ch1_1', 'Ch1_2', 'Ch1_3', 'Ch1_4', 'Ch1_5', 'Ch1_6', 'Ch1_7', 'Ch1_8', 'Ch1_9', 'Ch1_10', 'Ch1_11', 'Ch1_12', 'Atlas']
-for node in Wg1_Ch: #For iterating the properties and URL of Chapters of Working Group 1
+for node in Wg1_Ch:         #For iterating the properties and URL of Chapters of Working Group 1
     if node=='Ch1_1':
         graph.node(node, node, shape='cylinder', style='filled', color="#E6E6FA", URL= "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-1/")
     elif node=='Ch1_2':
@@ -61,7 +61,7 @@ for node in Wg1_Ch: #For iterating the properties and URL of Chapters of Working
     else:
         graph.node(node, node, shape='cylinder', style='filled', color="#E6E6FA", URL="https://www.ipcc.ch/report/ar6/wg1/chapter/atlas/")
 
-for node in Wg1_Ch:                 #Connects edge Chapter 1-12 & Atlas to Working Group 1
+for node in Wg1_Ch:                             #Connects edge Chapter 1-12 & Atlas to Working Group 1
     graph.edge('Wg1', node, style="dotted")
 
 SubcategoryWg2=['Chapters', 'Cross_Chapters']   #Creates nodes Chapter & Cross_Chapters for Working Group 2
@@ -173,7 +173,7 @@ for node in Wg3_Ch:                     #For iterating the properties and URL of
     else:
         graph.node(node, node, shape='cylinder', style='filled', color="#D8BFD8", URL= "https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-17/")
 
-for node in Wg3_Ch:                 #Connects edge Chapter 1-17 to Chapters from Working Group 3
+for node in Wg3_Ch:                             #Connects edge Chapter 1-17 to Chapters from Working Group 3
     graph.edge('Wg3', node, style="dotted")
 
 graph.render('layered_graph',view=True) #Renders the graph for output
