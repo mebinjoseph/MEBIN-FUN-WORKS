@@ -13,8 +13,9 @@ for node in AR:
 for node in AR:
     graph.edge('IPCC', node, style="dotted")
 
-# Creates nodes Wg1-3 [Working group 1-3]
+# Creates nodes Wg1-3 [Working group 1-3] & SynR [Synthesis Report]
 Wg=['Wg1', 'Wg2', 'Wg3']
+SynR=['SynR']
 for node in Wg: #For displaying the properties and URL of Working Groups 1-3
     if node == "Wg1":
         graph.node(node, node, shape='diamond', style='filled', color="#FFF4EO", URL = "https://www.ipcc.ch/report/ar6/wg1/")
@@ -25,6 +26,14 @@ for node in Wg: #For displaying the properties and URL of Working Groups 1-3
 
 #Connects edge AR6 to Wg i.e., Working Groups
 for node in Wg:
+    graph.edge('AR6', node, style="dotted")
+
+for node in SynR:
+    if node == 'SynR': #For displaying the properties and URL of Synthesis Report
+        graph.node(node, node, shape='diamond', style='filled', color="#FFF4EO", URL= "https://www.ipcc.ch/report/ar6/syr/")
+
+#Connects edge AR6 to SynR i.e., Synthesis Report
+for node in SynR:
     graph.edge('AR6', node, style="dotted")
 
 # Creates Chapter 1-12 & Atlas in Working Group 1

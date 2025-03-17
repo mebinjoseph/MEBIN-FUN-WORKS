@@ -18,6 +18,8 @@ digraph {
 	AR6 -> Wg1 [style=dotted]
 	AR6 -> Wg2 [style=dotted]
 	AR6 -> Wg3 [style=dotted]
+	SynR [label=SynR URL="https://www.ipcc.ch/report/ar6/syr/" color="#FFF4EO" shape=diamond style=filled]
+	AR6 -> SynR [style=dotted]
 	Ch1_1 [label=Ch1_1 URL="https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-1/" color="#E6E6FA" shape=cylinder style=filled]
 	Ch1_2 [label=Ch1_2 URL="https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-2/" color="#E6E6FA" shape=cylinder style=filled]
 	Ch1_3 [label=Ch1_3 URL="https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/" color="#E6E6FA" shape=cylinder style=filled]
