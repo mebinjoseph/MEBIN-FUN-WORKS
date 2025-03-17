@@ -176,7 +176,7 @@ for node in Wg3_Ch:                     #For iterating the properties and URL of
 for node in Wg3_Ch:                             #Connects edge Chapter 1-17 to Chapters from Working Group 3
     graph.edge('Wg3', node, style="dotted")
 
-graph.render('layered_graph',view=True) #Renders the graph for output
+graph.render('layered_graph',view=True)         #Renders the graph for output
 
 
 
