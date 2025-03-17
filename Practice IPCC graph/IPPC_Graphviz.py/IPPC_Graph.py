@@ -4,18 +4,15 @@ graph=graphviz.Digraph(format='svg')
 #Creates a node IPCC
 graph.node('IPCC', shape='oval', style="filled", color="#ADD8E6", URL="https://www.ipcc.ch/report")
 
-#Creates nodes AR 1-6 [Assessment Reports 1-6]
-AR=['AR1', 'AR2', 'AR3', 'AR4', 'AR5', 'AR6']
-for node in AR:
+AR=['AR1', 'AR2', 'AR3', 'AR4', 'AR5', 'AR6'] #Creates nodes AR 1-6 [Assessment Reports 1-6]
+for node in AR:                               #For displaying the properties of AR 1-6 [Assessment Reports 1-6]
     graph.node(node, node, shape='parallelogram', style="filled", color="#90EE90")
 
-#Connects edge IPCC to node i.e., AR [Assessment Reports]
-for node in AR:
+for node in AR: #Connects edge IPCC to node i.e., AR [Assessment Reports]
     graph.edge('IPCC', node, style="dotted")
 
-# Creates nodes Wg1-3 [Working group 1-3] & SynR [Synthesis Report]
-Wg=['Wg1', 'Wg2', 'Wg3']
-SynR=['SynR']
+Wg=['Wg1', 'Wg2', 'Wg3'] # Creates nodes Wg1-3 [Working group 1-3]
+SynR=['SynR']            # Creates a nodeSynR [Synthesis Report]
 for node in Wg: #For displaying the properties and URL of Working Groups 1-3
     if node == "Wg1":
         graph.node(node, node, shape='diamond', style='filled', color="#FFF4EO", URL = "https://www.ipcc.ch/report/ar6/wg1/")
@@ -24,16 +21,14 @@ for node in Wg: #For displaying the properties and URL of Working Groups 1-3
     else:
         graph.node(node, node, shape='diamond', style='filled', color="#FFF4EO", URL = "https://www.ipcc.ch/report/ar6/wg3/")
 
-#Connects edge AR6 to Wg i.e., Working Groups
-for node in Wg:
+for node in Wg:             #Connects edge AR6 to Wg i.e., Working Groups
     graph.edge('AR6', node, style="dotted")
 
-for node in SynR:
-    if node == 'SynR': #For displaying the properties and URL of Synthesis Report
+for node in SynR:           #For displaying the properties and URL of Synthesis Report
+    if node == 'SynR':
         graph.node(node, node, shape='diamond', style='filled', color="#FFF4EO", URL= "https://www.ipcc.ch/report/ar6/syr/")
 
-#Connects edge AR6 to SynR i.e., Synthesis Report
-for node in SynR:
+for node in SynR:           #Connects edge AR6 to SynR i.e., Synthesis Report
     graph.edge('AR6', node, style="dotted")
 
 # Creates Chapter 1-12 & Atlas in Working Group 1
@@ -66,17 +61,14 @@ for node in Wg1_Ch: #For displaying the properties and URL of Chapters of Workin
     else:
         graph.node(node, node, shape='cylinder', style='filled', color="#E6E6FA", URL="https://www.ipcc.ch/report/ar6/wg1/chapter/atlas/")
 
-#Connects edge Chapter 1-12 & Atlas to Working Group 1
-for node in Wg1_Ch:
+for node in Wg1_Ch:                 #Connects edge Chapter 1-12 & Atlas to Working Group 1
     graph.edge('Wg1', node, style="dotted")
 
-#Creates nodes Chapter & Cross_Chapters for Working Group 2
-SubcategoryWg2=['Chapters', 'Cross_Chapters']
-for node in SubcategoryWg2:
+SubcategoryWg2=['Chapters', 'Cross_Chapters']   #Creates nodes Chapter & Cross_Chapters for Working Group 2
+for node in SubcategoryWg2:                     #For displaying the properties of Chapter & Cross_Chapters for Working Group 2
     graph.node(node, node, shape='hexagon', style='filled', color="#AFEEEE")
 
-#Connects edge Working Group 2 to Chapters & Cross_Chapters
-for node in SubcategoryWg2:
+for node in SubcategoryWg2:                     #Connects edge Working Group 2 to Chapters & Cross_Chapters
     graph.edge('Wg2',node, style="dotted")
 
 # Creates Chapter 1-18 in Working Group 2
@@ -119,8 +111,7 @@ for node in Wg2_Ch: #For displaying the properties and URL of Chapters of Workin
     else:
         graph.node(node, node, shape='cylinder', style='filled', color="#F5DEB3", URL= "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-18/")
 
-#Connects edge Chapter 1-18 to Chapters from Working Group 2
-for node in Wg2_Ch:
+for node in Wg2_Ch:                     #Connects edge Chapter 1-18 to Chapters from Working Group 2
     graph.edge('Chapters', node, style="dotted")
 
 # Creates Cross-Chapter 1-7 in Working Group 2
@@ -141,8 +132,7 @@ for node in Wg2_Ccp: #For displaying the properties and URL of Cross-Chapters of
     else:
         graph.node(node, node, shape='cylinder', style='filled', color="#9FE2BF",URL="https://www.ipcc.ch/report/ar6/wg2/chapter/ccp7/")
 
-#Connects edge Cross_Chapter 1-7 to Cross_Chapters from Working Group 2
-for node in Wg2_Ccp:
+for node in Wg2_Ccp:                    #Connects edge Cross_Chapter 1-7 to Cross_Chapters from Working Group 2
     graph.edge('Cross_Chapters', node, style="dotted")
 
 # Creates Chapter 1-17 in Working Group 3
@@ -183,11 +173,10 @@ for node in Wg3_Ch: #For displaying the properties and URL of Chapters of Workin
     else:
         graph.node(node, node, shape='cylinder', style='filled', color="#D8BFD8", URL= "https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-17/")
 
-#Connects edge Chapter 1-17 to Chapters from Working Group 3
-for node in Wg3_Ch:
+for node in Wg3_Ch:                 #Connects edge Chapter 1-17 to Chapters from Working Group 3
     graph.edge('Wg3', node, style="dotted")
 
-graph.render('layered_graph',view=True)
+graph.render('layered_graph',view=True) #Renders the graph for output
 
 
 
